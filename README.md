@@ -1,8 +1,10 @@
-<h2 align="left">Olá! Me chamo Lucas Sérgio da Silva</h2>
+<h2 align="left">HI! Mi names is Lucas S. Silva</h2>
 
 ###
 
-<h3 align="left">Desenvolvedor Java</h3>
+<div>
+  <h3 align="left">Java Developer <img src="https://skillicons.dev/icons?i=java> </h3>
+                                    </div>
 <h2 align="left">Formando em Análise e Desenvolvimento de Sistemas (ADS) </h2>
 
 ###
